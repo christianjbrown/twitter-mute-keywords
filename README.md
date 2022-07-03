@@ -1,10 +1,6 @@
 # Remove likes, suggested posts and topics from your Twitter timeline
 
-To mute likes, suggested posts, suggested topics, suggested accounts, replied to, etc from your Twitter timeline, 
-
-On the web or mobile app, go to **Settings & Privacy** > **Privacy and safety** > **Mute and block** > **Muted words**, and for each word below, one by one, add the word with all default options.
-
-It may take a few minutes to take full effect.
+To mute likes, suggested posts, suggested topics, suggested accounts, replied to, etc from your Twitter timeline, on the web or the mobile app, go to **Settings & Privacy** > **Privacy and safety** > **Mute and block** > **Muted words**, and for each word below, one by one, add the word with all default options. It may take a few minutes to take full effect.
 
 
 ```
