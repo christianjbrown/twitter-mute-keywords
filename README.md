@@ -2,7 +2,7 @@
 
 To mute likes, suggested posts, suggested topics, suggested accounts, replied to, etc from your Twitter timeline, 
 
-On the web or mobile app, go to Settings & Privacy > Privacy and safety > Mute and block > Muted words, and for each word below, one by one, add the word with all default options.
+On the web or mobile app, go to **Settings & Privacy** > **Privacy and safety** > **Mute and block** > **Muted words**, and for each word below, one by one, add the word with all default options.
 
 It may take a few minutes to take full affect.
 
